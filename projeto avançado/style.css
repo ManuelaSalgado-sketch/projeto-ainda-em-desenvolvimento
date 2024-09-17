@@ -1,0 +1,31 @@
+      div{
+            border: 3px solid #2196f3;
+            width: 50%;
+            margin: auto;
+        }
+
+
+        h3{
+            text-align: center;
+        }
+        
+        h2{
+            text-align: center;
+        }
+
+        img{
+            display: block;
+            margin: auto;
+        }
+      button{
+	background-color: rgba(255, 255, 255, 0.1);
+	border: 0.5px solid #fff;
+	border-radius: 4px;
+	font-family: "ChaletComprime";
+	font-size: 28px;
+	text-align: center;
+	padding: 20px 40px;
+	text-transform: uppercase;
+	width: 50%;
+	transition: all 0.3s ease-in;
+}
